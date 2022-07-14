@@ -11,7 +11,7 @@ path: beijing-dashila-commercial
 
 ![Birdview](../images/articles/design_05/Birdview.jpg)
 
-This is a commercial center design at Dashila, Beijing. It was relatively simple due to lack of time. I designed the shape of this commercial center based on the shape of roads. I placed a public library on the north-west corner, hopping this could attract people to drop by.
+Now, it is my page, hahahah! This is a commercial center design at Dashila, Beijing. It was relatively simple due to lack of time. I designed the shape of this commercial center based on the shape of roads. I placed a public library on the north-west corner, hopping this could attract people to drop by.
 
 ![Section](../images/articles/design_05/Section.jpg)
 
