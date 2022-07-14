@@ -7,7 +7,7 @@ path: Renovation of Old Apartment
 <special>
 </special>
 
-## Lagos Stadium Competition
+## Folding Longchang
 
 I made this stadium design for ArchOutLoud Design Competition, together with Xiyu Chen and Ruofan Xue. In this competition, we were asked to design a new multi-purpose stadium at the former Olusosun Landfill in Lagos, Nigeria.
 
