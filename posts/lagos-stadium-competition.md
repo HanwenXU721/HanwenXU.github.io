@@ -1,8 +1,8 @@
 ---
-title: Lagos Stadium Competition 
+title: Folding Longchang 
 disc: no disc here
-date: Dec 17, 2018
-path: lagos-stadium-competition
+date: 2018 Fall Semester, Year 3
+path: Renovation of Old Apartment
 ---
 <special>
 </special>
