@@ -2,7 +2,7 @@
 title: Folding Longchang 
 disc: no disc here
 date: 2018 Fall Semester, Year 3
-path: Renovation of Old Apartment
+path: renovation-of-old-apartment
 ---
 <special>
 </special>
