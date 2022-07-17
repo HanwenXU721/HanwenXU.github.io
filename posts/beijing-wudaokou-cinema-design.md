@@ -7,9 +7,9 @@ path: beijing-wudaokou-cinema-design
 <special>
 </special>
 
-## Beijing Wudaokou Cinema Design
+## The king of Ring
 
-![Facade](../images/articles/design_02/Facade.jpg)
+![Facade](../images/articles/design_02/TimeToDisco_Yheee.jpg)
 
 This is a cinema design at Wudaokou, Beijing. I visited lots of cinemas in Beijing and really learned a lot from that. I realized that a single building can be extremelly complicated.
 
