@@ -16,3 +16,9 @@ Now, it is my page, hahahah! This is a commercial center design at Dashila, Beij
 ![Section](../images/articles/design_05/Section.jpg)
 
 The section shows the relationship between different buildings and how people could interact with each other in the building.
+
+![huiming](../images/articles/design_05/huiming-tea-space-china.jpg)
+
+Something about the huiming tea space
+
+Another thing about the huiming tea space
