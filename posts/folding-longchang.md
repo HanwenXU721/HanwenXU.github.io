@@ -18,9 +18,12 @@ Under such a realistic logic, this project chooses Longchang Apartment as the ob
 
 
 ![Plan](../images/articles/design_04/1.jpg)
-Fig. 1. Longchang Apartment: from classy dormitory to decay housing
+Fig. 1. Longchang Apartment: from Classy Dormitory to Decay Housing
 
 In its early days, Longchang Apartment was Shanghai's most modern high-rise apartment. While one hundred years later, the living conditions of this apartment have become worse and worse. Only elders stay because of deep feelings for "home". Furthermore, bruising tensions form between migrant workers (who are attracted by cheap rents here) and old residents because of cultural differences.
 
+![Plan](../images/articles/design_04/2.jpg)
+Fig. 2. Facade: the Encroachment on Public Space
 
-![Analysis](../images/articles/design_04/Analysis.jpg)
+![Plan](../images/articles/design_04/3-1.jpg)
+Fig. 3. Strategies Used by Residents to Increase Space
