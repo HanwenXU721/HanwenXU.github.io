@@ -25,5 +25,8 @@ In its early days, Longchang Apartment was Shanghai's most modern high-rise apar
 ![Plan](../images/articles/design_04/2.jpg)
 Fig. 2. Facade: the Encroachment on Public Space
 
+
+The lack of space makes the living condition to become worse. Residents have no choice but to occupy the corridor to put more things, which leads to many problems like the encroachment of public space, the confusion of property rights and the degradation of the visual quality. However, in some cases, it also has a positive aspect. It is a flexible way of using space.
+
 ![Plan](../images/articles/design_04/3-1.jpg)
 Fig. 3. Strategies Used by Residents to Increase Space
