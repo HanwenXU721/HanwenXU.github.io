@@ -1,0 +1,53 @@
+---
+title: Yuanyang Fish Factory Renovation
+disc: no disc here
+date: 2019 Fall Semester, Year 4
+path: Yuanyang Fish Factory Renovation
+---
+<special>
+</special>
+
+## Yuanyang Fish Factory Renovation
+
+![Birdview](../images/articles/design_06/1.jpg)
+
+
+Yuanyang fish factory is located at the riverside of the Yong river in Ningbo. As the symbol of the industrial era of Ningbo, now half of the site remains abandoned. The charming duality of dilapidation and operation allows us to bring back the history of the industrial age and the planned economy to the people in Ningbo, which also adapt to contemporary urban life. Two opposite programs (modern life/local life) are set based on the duality of the site (left-dilapidation/right-operation).
+
+The context of the original factory supports us in the pathway for design. Following the four layers of the site, and elements such as the fish slide (the bridge), waterfronts and train rail, this project attempts to demonstrate the fascinating, typologically complex and chaotic nature of the Yuanyang fish factory.
+
+
+![Plan](../images/articles/design_06/2.jpg)
+Fig. 1. Typological Characteristics of the Site
+
+
+![Plan](../images/articles/design_06/3.jpg)
+Fig. 2. Contrasts as Design
+
+
+![Plan](../images/articles/design_06/4.jpg)
+Fig. 3. Contrast: Rethinking
+
+
+![Plan](../images/articles/design_06/5.jpg)
+Fig. 4. Design Strategy: Chaos and Variety
+
+
+![Plan](../images/articles/design_06/6.jpg)
+Fig. 5. Design Strategy: Scale of Public Space
+
+
+![Plan](../images/articles/design_06/7.jpg)
+Fig. 6. The Masterplan of the Project
+
+
+![Plan](../images/articles/design_06/8.jpg)
+Fig. 7. The Axonometric: Rebuild the Complexity and Chaos Characteristic
+
+
+![Plan](../images/articles/design_06/9.jpg)
+![Plan](../images/articles/design_06/10.jpg)
+Fig. 8. The Tourist's View
+
+
+![Plan](../images/articles/design_06/11.jpg)
