@@ -39,7 +39,6 @@ Fig. 4. Function and Structure
 ![huiming](../images/articles/design_05/6-2.jpg)
 
 ![huiming](../images/articles/design_05/6-3.jpg)
-
 Fig. 5. Sections of the Project
 
 
