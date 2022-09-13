@@ -1,5 +1,5 @@
 ---
-title: Beijing Dashila Commercial
+title: Project Terrace
 disc: no disc here
 date: Jun 07, 2017
 path: beijing-dashila-commercial

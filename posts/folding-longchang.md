@@ -2,7 +2,7 @@
 title: Folding Longchang
 disc: no disc here
 date: 2018 Fall Semester, Year 3
-path: folding-longchang
+path: Folding Longchang
 ---
 <special>
 </special>
