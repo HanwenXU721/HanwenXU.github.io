@@ -30,3 +30,9 @@ The lack of space makes the living condition to become worse. Residents have no 
 
 ![Plan](../images/articles/design_04/3-1.jpg)
 Fig. 3. Strategies Used by Residents to Increase Space
+
+![Plan](../images/articles/design_04/4.jpg)
+Fig. 4. Space Integration
+
+![Plan](../images/articles/design_04/5.jpg)
+Fig. 4. Space Integration
