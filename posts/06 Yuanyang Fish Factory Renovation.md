@@ -9,7 +9,7 @@ path: Yuanyang Fish Factory Renovation
 
 ## Yuanyang Fish Factory Renovation
 
-You can find more detail about the project on: https://issuu.com/hanwenxu721/docs/_2016-2020
+For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 
 ![Birdview](../images/articles/design_06/1.jpg)

@@ -9,7 +9,7 @@ path: Folding Longchang
 
 ## Folding Longchang
 
-You can find more detail about the project on: https://issuu.com/hanwenxu721/docs/_2016-2020
+For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 
 ![Birdview](../images/articles/design_04/0.jpg)
