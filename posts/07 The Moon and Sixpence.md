@@ -60,7 +60,6 @@ Fig. 8. Section 1-1`
 ![Plan](../images/articles/design_07/10.jpg)
 Fig. 9. The Axonometric: the Building as an Hub
 
+---
 
 ![Plan](../images/articles/design_07/11.jpg)
-![Plan](../images/articles/design_07/12.jpg)
-![Plan](../images/articles/design_07/13.jpg)
