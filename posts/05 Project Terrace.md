@@ -9,6 +9,9 @@ path: Project Terrace
 
 ## Project Terrace
 
+You can find more detail about the project on: https://issuu.com/hanwenxu721/docs/_2016-2020
+
+
 ![Birdview](../images/articles/design_05/1.jpg)
 Fig. 1. "Real Local Experience": Zhaduzha Weekend Market, Bangkok
 

@@ -9,6 +9,9 @@ path: The Moon and Sixpence
 
 ## The Moon and Sixpence
 
+You can find more detail about the project on: https://issuu.com/hanwenxu721/docs/_2016-2020
+
+
 ![Birdview](../images/articles/design_07/0.jpg)
 
 The project's name comes from the British novelist William Maugham's Moon and Sixpence, which celebrates the hero's action of Paul Gauguin in abandoning everyday life for the sake of great art. In comparison, this project tries to rethink the moral superiority of the two metaphors, the moon and sixpence. Based on the site in project "Yuanyang Fish Factory Renovation", an old fish factory was chosen for the design. Two pairs of opposing programs (museum-community centre) are organized base on the original structure. According to the hybrid of type and mix of space, a multifunctional architecture with new typology has been created.
@@ -60,6 +63,6 @@ Fig. 8. Section 1-1`
 ![Plan](../images/articles/design_07/10.jpg)
 Fig. 9. The Axonometric: the Building as an Hub
 
----
+—————————————————————————————————————————————————
 
 ![Plan](../images/articles/design_07/11.jpg)
