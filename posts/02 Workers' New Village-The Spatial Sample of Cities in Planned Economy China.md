@@ -1,13 +1,13 @@
 ---
-title: Beijing Wudaokou Cinema Design
+title: Workers' New Village: The Spatial Sample of Cities in Planned Economy China
 disc: no disc here
-date: May 14, 2018
-path: beijing-wudaokou-cinema-design
+date: 2022 Term2, AA Projective Cities
+path: Workers' New Village: The Spatial Sample of Cities in Planned Economy China
 ---
 <special>
 </special>
 
-## The king of Ring
+## Workers' New Village: The Spatial Sample of Cities in Planned Economy China
 
 ![Facade](../images/articles/design_02/TimeToDisco_Yheee.jpg)
 
