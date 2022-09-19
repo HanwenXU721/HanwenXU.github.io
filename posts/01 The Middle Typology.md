@@ -2,7 +2,7 @@
 title: The Middle Typology-Public Housing for China's New Generation 
 disc: no disc here
 date: 2021 Term1, AA Projective Cities
-path: The Middle Typology-Public Housing for China's New Generation
+path: The Middle Typology
 ---
 <special>
 </special>
