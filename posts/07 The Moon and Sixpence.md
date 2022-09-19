@@ -31,9 +31,36 @@ While "Moon" and "Sixpence" become two metaphors, the designer tries to discuss 
 Fig. 3. Two Metaphors: Non-dialy and Daily
 
 
-
+The museum and the community centre are two spatial prototypes of the project. According to the hybrid of two types, a series of spaces come out which have the potential to satisfy both needs. By hybridizing the geometric prototype summarized in a case study series of "museum" and "community centre", new types conforming to the characteristics of the two (museum and community centre) can be obtained, thus achieving the homology of the types mentioned by Aldo Rossi.
 
 ![Plan](../images/articles/design_07/4.jpg)
+Fig. 4. The Prototype and the Create of New Type
+
+In addition to the hybridization of the dimension of space, time becomes another dimension discussed in the project. The hybrid of programs could be divided into two kinds in the time dimension, simultaneous and non-simultaneous.
 
 ![Plan](../images/articles/design_07/5.jpg)
-Fig. 3. Two Metaphors: Non-dialy and Daily
+Fig. 5. Time Becomes Another Element to Discuss in the Project
+
+
+As a result, a series of programs are organized in the building base on such logic. Some of them show the multiplicity of space. At the same time, time is also a dimension that cannot be ignored in the hybrid of programs.
+
+![Plan](../images/articles/design_07/6.jpg)
+![Plan](../images/articles/design_07/7.jpg)
+Fig. 6. The Programing of the Space
+
+
+![Plan](../images/articles/design_07/8.jpg)
+Fig. 7. The Factors in the Exist Ice Factory as Design Elements
+
+
+![Plan](../images/articles/design_07/9.jpg)
+Fig. 8. Section 1-1`
+
+
+![Plan](../images/articles/design_07/10.jpg)
+Fig. 9. The Axonometric: the Building as an Hub
+
+
+![Plan](../images/articles/design_07/11.jpg)
+![Plan](../images/articles/design_07/12.jpg)
+![Plan](../images/articles/design_07/13.jpg)
