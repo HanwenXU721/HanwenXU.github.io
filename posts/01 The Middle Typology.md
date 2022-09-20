@@ -1,5 +1,5 @@
 ---
-title: The Middle Typology-Public Housing for China's New Generation 
+title: The Middle Typology-Public Housing for the New Generation of China 
 disc: no disc here
 date: 2021 Term1, AA Projective Cities
 path: The Middle Typology
@@ -7,7 +7,7 @@ path: The Middle Typology
 <special>
 </special>
 
-## The Middle Typology: Public Housing for China New Generationn
+## The Middle Typology: Public Housing for the New Generation of China
 
 I made this stadium design for ArchOutLoud Design Competition, together with Xiyu Chen and Ruofan Xue. In this competition, we were asked to design a new multi-purpose stadium at the former Olusosun Landfill in Lagos, Nigeria.
 

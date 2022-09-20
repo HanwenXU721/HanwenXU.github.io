@@ -1,13 +1,13 @@
 ---
-title: Workers' New Village-The Spatial Sample of Cities in Planned Economy China
+title: Workers New Village-The Spatial Sample of Cities in Planned Economy China
 disc: no disc here
 date: 2022 Term2, AA Projective Cities
-path: Workers' New Village-The Spatial Sample of Cities in Planned Economy China
+path: Workers New Village
 ---
 <special>
 </special>
 
-## Workers' New Village-The Spatial Sample of Cities in Planned Economy China
+## Workers' New Village: The Spatial Sample of Cities in Planned Economy China
 
 ![Facade](../images/articles/design_02/TimeToDisco_Yheee.jpg)
 
