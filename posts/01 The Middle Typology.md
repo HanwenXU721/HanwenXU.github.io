@@ -73,12 +73,21 @@ Thus, social housing is considered by designers, managers and residents as a tra
 
 
 Bibliography:
+
 Chen Yang, From Model Community to Monumental Site: a Workers’ Village through History. (Shanghai: Tongji University Press, 2019).
+
 Clarence Perry, The Neighborhood Unit, a Scheme for Arrangement for the Family-Life Community. (1929).
+
 Dieter Hassenpflug, the Urban Code of China, trans. Mark Kammerbauer (Basel: Birkhäuser GmbH, 2010).
+
 Evans Robin, Translations from drawing to building and other essays,(Architectural Assiociation,1978).
+
 Foucault Michelle, Of Other Space, (1986).
+
 Fulong Wu, Packaging a New Way of Urban Life: Gated Communities and Chinese New Urbanism. (Cardiff: Cardiff University Paper, 2006).
+
 Jacoby Sam, Drawing Architecture and the Urban, (London, John Wiley ＆ Sons Ltd, 2016).
+
 Teige Karel, The Minimum Dwelling, trans. Eric Dluhosch (The MIT Press, 2002).
+
 Zao Zhang, Stories of Longnan Social Housing - a Public Rental Housing Project and Its Designer’s Manifesto and Daily Life, Architectural Journal ,5(2017), (China Academic Journal Electronic Publishing House, 2017).
