@@ -10,8 +10,11 @@ path: Folding Longchang
 ## Folding Longchang
 
 2017 Fall Semester, Year 3
+
 Renovation of Old Apartment
+
 Individual Work
+
 For More Details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 

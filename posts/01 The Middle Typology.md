@@ -9,9 +9,9 @@ path: The Middle Typology
 
 ## The Middle Typology: Public Housing for the New Generation of China
 
-This project records my postgraduate architecture study in AA Projective Cities - Studio 1: Parts, Units and Groups. In brief, it can be divided into four parts (steps), which explore the questions of contemporary collective living through typology as the core methodology. 
+This project records postgraduate architecture study of Hanwen XU in AA Projective Cities - Studio 1: Parts, Units and Groups. Find more about AA Projective Cities: http://projectivecities.aaschool.ac.uk/
 
-The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, the project's overall structure will be introduced here. For more details, please read the whole booklet on ISSUU: https://issuu.com/hanwenxu721/docs/term1_studio
+In brief, this project can be divided into four parts (steps), which explore the questions of contemporary collective living through typology as the core methodology. The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, please read the whole booklet on ISSUU: https://issuu.com/hanwenxu721/docs/term1_studio
 
 
 ![Stadium Design](../images/articles/design_01/1.jpg)
@@ -21,43 +21,43 @@ Fig. 1. The Minimum Dwelling of Teige Karel
 In the first part (Chapter 1), according to a series of case studies, historical and contemporary. The author defines a preliminary research interest that would allow me to select other relevant examples of collective living. Several related analytical studies and comparative analyses of architectural precedents frame individual preliminary research interests, i.e., how the author would approach the design and research questions of collective living.
 
 ![Stadium Design](../images/articles/design_01/2.jpg)
-Fig. 2. The Study of Housing Policy in China since 1949 in Chapter 1
+Fig. 2. The Study of Housing Policy in China since 1949, Chapter 1
 
 
 Then (Chapter 2), the chosen case studies will be described and analyzed through drawings. The analysis of building types and their formative diagrams requires the study of commonly shared traits by recognizing organizational and structural repetitions or exceptions that define their typicality in a formal sense and their socio-cultural meaning. The commonalities and transformations evident in a particular group of building types are compared as a series of descriptive and analytical diagrams that convey a building type's collective form, structure, organization, and construction.
 
 ![Stadium Design](../images/articles/design_01/3.jpg)
-Fig. 3. The Redraw of the Case Studies-Living Unit
+Fig. 3. Case Studies Analysis-Living Unit, Chapter 2
 
 ![Stadium Design](../images/articles/design_01/4.jpg)
-Fig. 4. The Redraw of the Case Studies-Plan
+Fig. 4. The Redraw of the Case Studies-Plan, Chapter 2
 
 
 In the third part (Chapter 3), the analyzed case studies, representing certain moments in the transformation of building types, should be contextualized by framing them within a comparative history. This history, a very brief survey made up of diagrams, photographs, drawings, and text, maps out the emergence and development of the chosen building type and should be part of the conclusions. Questions to be considered, for example, are the definition of generic room sizes and how the social diagram of housing and collective living change. Through the comparative history and matrices, an argument and assessment of the historical transformations of building types can be attempted, providing the grounds for a preliminary projection of an anticipated or necessary (future) typological transformation. Altogether, the aim is to understand typology less as a classification of building types, or for that matter, as contained by building types themselves, but to seek typological diagrams that transcend classificatory restraints.
 
 ![Stadium Design](../images/articles/design_01/5.jpg)
-Fig. 5. Comparative Analysis of Case Studies
+Fig. 5. Comparative Analysis of Case Studies, Chapter 3
 
 ![Stadium Design](../images/articles/design_01/6.jpg)
-Fig. 6. Unit, Floor, Community, Society and Functional Space
+Fig. 6. Unit, Floor, Community, Society and Functional Space, Chapter 3
 
 
 A quick design exercise will be proposed in the final part (Chapter 4), based on the studied type, the identified formative diagrams, and typological transformations. Learning from the case studies, the author will select a target site in a very different context and formulate relevant research questions, to address a project for a (new) form of collective living for specific subjects. The synthesis of historical analyses, their embedded social and familial relations, modes of production, and forms of association with the specific sociopolitical context of the chosen site, will generate a frame of relations. This organizational diagram would eventually be developed into a series of projective drawings, models, writings, and moving images.
 
 ![Stadium Design](../images/articles/design_01/7.jpg)
-Fig. 7. Forms: Study and Design
+Fig. 7. Forms: Study and Design, Design Exercise
 
 ![Stadium Design](../images/articles/design_01/8.jpg)
-Fig. 8. The Ground Floor Plan
+Fig. 8. The Ground Floor Plan, Design Exercise
 
 ![Stadium Design](../images/articles/design_01/9.jpg)
-Fig. 9. Living Units
+Fig. 9. Living Units, Design Exercise
 
 ![Stadium Design](../images/articles/design_01/10.jpg)
-Fig. 10. The Axonometric
+Fig. 10. The Axonometric, Design Exercise
 
 ![Stadium Design](../images/articles/design_01/11.jpg)
-Fig. 11. Section 1-1`
+Fig. 11. Section 1-1`, Design Exercise
 
 
 Conclusion: 

@@ -10,8 +10,11 @@ path: The Moon and Sixpence
 ## The Moon and Sixpence
 
 2020 Spring Semester, Year 4
+
 Museum and Community Center
+
 Individual Work
+
 For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 

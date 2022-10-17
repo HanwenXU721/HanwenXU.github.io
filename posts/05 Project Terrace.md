@@ -9,9 +9,12 @@ path: Project Terrace
 
 ## Project Terrace
 
-2018 Spring Semester, Year 3
+2018 Spring Semester, Year 3 
+
 Community Commercial Building
+
 Individual Work
+
 For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 

@@ -10,8 +10,11 @@ path: Yuanyang Fish Factory Renovation
 ## Yuanyang Fish Factory Renovation
 
 2019 Fall Semester, Year 4
+
 Renovation of Industrial Zone
+
 Group Work (Hanwen Xu, Yuhang Tao, Zhengyou Chen and Tiancheng Kang)
+
 For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
 
 

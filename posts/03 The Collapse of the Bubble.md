@@ -1,13 +1,13 @@
 ---
-title: Qingdao Restaurant Design
+title: The Collapse of the Bubble-A Limited Autonomy Model in the Post Real Estate Era of China
 disc: no disc here
-date: Jan 05, 2018
-path: qingdao-restaurant-design
+date: 2023 Term3, AA Projective Cities
+path: The Collapse of the Bubble
 ---
 <special>
 </special>
 
-## Qingdao Restaurant Design
+## The Collapse of the Bubble: a Limited Autonomy Model in the Post Real Estate Era of China
 
 ![Perspective](../images/articles/design_03/Perspective.jpg)
 
