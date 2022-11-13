@@ -17,7 +17,7 @@ function showContent(){
             $this.addClass('is-active');
             $currentArticle.hide(300);
             $thisArticle.css('display','grid');
-            $('articles').css('transform','translateX(-'+$index*33.33+'%)');
+            $('articles').css('transform','translateX(-'+$index*25+'%)');
         }
     })
 }
