@@ -11,7 +11,7 @@ path: The Middle Typology
 
 This project records postgraduate architecture study of Hanwen XU in AA Projective Cities - Studio 1: Parts, Units and Groups. Find more about AA Projective Cities: http://projectivecities.aaschool.ac.uk/
 
-In brief, this project can be divided into four parts (steps), which explore the questions of contemporary collective living through typology as the core methodology. The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, please read the whole booklet on ISSUU: https://issuu.com/hanwenxu721/docs/term1_studio
+In brief, this project can be divided into four parts (steps), which explore the questions of contemporary collective living through typology as the core methodology. The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, please read the whole booklet on ISSUU: [Term1 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
 
 
 ![Stadium Design](../images/articles/design_01/1.jpg)
