@@ -11,7 +11,7 @@ path: Workers New Village
 
 This project records my postgraduate architecture study in AA Projective Cities - Studio 2: Scales-From the Room to the City. In brief, it can be divided into four parts (steps), which explore the questions of contemporary collective living through typology as the core methodology. 
 
-The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, the project's overall structure will be introduced here. For more details, please read the whole booklet on ISSUU: [Term2 Studio](C:\Users\XU Hanwen\Documents\GitHub\HanwenXU.github.io\resources\Term2 Studio.pdf)
+The complexity of the project make it difficult to define it as a "research" or "design". Due to the web format's limitations, the project's overall structure will be introduced here. For more details, please read the whole booklet on ISSUU: [Term2 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
 
 
 ![Facade](../images/articles/design_02/TimeToDisco_Yheee.jpg)
