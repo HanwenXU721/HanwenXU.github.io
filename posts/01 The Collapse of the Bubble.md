@@ -1,13 +1,13 @@
 ---
-title: The Collapse of the Bubble-A Limited Autonomy Model in the Post Real Estate Era of China
+title: The Collapse of the Bubble, New Power as New Forms of Living
 disc: no disc here
-date: 2023 Term3, AA Projective Cities
+date: Dissertation, AA Projective Cities
 path: The Collapse of the Bubble
 ---
 <special>
 </special>
 
-## The Collapse of the Bubble: a Limited Autonomy Model in the Post Real Estate Era of China
+## The Collapse of the Bubble: New Power as New Forms of Living
 
 ![Perspective](../images/articles/design_03/Perspective.jpg)
 
