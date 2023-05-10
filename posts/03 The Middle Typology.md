@@ -11,7 +11,8 @@ path: The Middle Typology
 
 This project records postgraduate architecture study of Hanwen XU in AA Projective Cities - Studio 1: Parts, Units and Groups. You can download the whole project here: [Term1 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
  
-You could also find more about AA Projective Cities at: http://projectivecities.aaschool.ac.uk/
+You could also find more about AA Projective Cities at:
+http://projectivecities.aaschool.ac.uk/
 
 
 INTRODUCTION
@@ -20,47 +21,47 @@ From the planned economy to the market economy, Chinese society has experienced 
 
 
 ![Stadium Design](../images/articles/design_01/1.jpg)
-FIG. 1. The Minimum Dwelling of Teige Karel
+FIG.1. The Minimum Dwelling of Teige Karel
 
 
 ![Stadium Design](../images/articles/design_01/2.jpg)
-FIG. 2. The Study of Housing Policy in China since 1949, Chapter 1
+FIG.2. The Study of Housing Policy in China since 1949, Chapter 1
 
 
 ![Stadium Design](../images/articles/design_01/3.jpg)
-FIG. 3. Case Studies Analysis-Living Unit, Chapter 2
+FIG.3. Case Studies Analysis-Living Unit, Chapter 2
 
 
 ![Stadium Design](../images/articles/design_01/4.jpg)
-FIG. 4. Case Studies Redrawing-Plan, Chapter 2
+FIG.4. Case Studies Redrawing-Plan, Chapter 2
 
 
 ![Stadium Design](../images/articles/design_01/5.jpg)
-FIG. 5. Case Studies' Comparative Analysis, Chapter 3
+FIG.5. Case Studies' Comparative Analysis, Chapter 3
 
 
 ![Stadium Design](../images/articles/design_01/6.jpg)
-FIG. 6. Unit, Floor, Community, Society and Functional Space, Chapter 3
+FIG.6. Unit, Floor, Community, Society and Functional Space, Chapter 3
 
 
 ![Stadium Design](../images/articles/design_01/7.jpg)
-FIG. 7. Forms: Study and Design, Design Exercise
+FIG.7. Forms: Study and Design, Design Exercise
 
 
 ![Stadium Design](../images/articles/design_01/8.jpg)
-FIG. 8. The Ground Floor Plan, Design Exercise
+FIG.8. The Ground Floor Plan, Design Exercise
 
 
 ![Stadium Design](../images/articles/design_01/9.jpg)
-FIG. 9. Living Units, Design Exercise
+FIG.9. Living Units, Design Exercise
 
 
 ![Stadium Design](../images/articles/design_01/10.jpg)
-FIG. 10. The Axonometric, Design Exercise
+FIG.10. The Axonometric, Design Exercise
 
 
 ![Stadium Design](../images/articles/design_01/11.jpg)
-FIG. 11. Section 1-1`, Design Exercise
+FIG.11. Section 1-1`, Design Exercise
 
 
 ATOMIZED INDIVIDUAL AND THE ARCHITECTURE AS MACHINE
