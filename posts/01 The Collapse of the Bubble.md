@@ -11,7 +11,7 @@ path: The Collapse of the Bubble
 
 This project is the dessertation of my postgraduate architecture study in AA Projective Cities. You can download the whole project here: [Dissertation](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
-You could also find more about AA Projective Cities at:
+You could find more about AA Projective Cities at: 
 http://projectivecities.aaschool.ac.uk/
 
 
@@ -25,99 +25,103 @@ Furthermore, the central argument’s ambition is to project such a change in li
 
 
 ![Construction](../images/articles/design_03/01.jpg)
-FIG.1. The "New Village" in the History
+FIG.1. City China, the Concrete Forests and the Wonders of Modernity
 
 
 ![Construction](../images/articles/design_03/02.jpg)
-FIG.2. The "New Village" in the History
+FIG.2. The Collapse of the Housing Bubble and the Interest Alliance
 
 
 ![Construction](../images/articles/design_03/03.jpg)
-FIG.3. The "New Village" in the History
+FIG.3. From Welfare to Property: the Rise of Real Estate in Modern China
 
 
 ![Construction](../images/articles/design_03/04.jpg)
-FIG.4. The "New Village" in the History
+FIG.4. Two Pathways Toward New Forms of Living
 
 
 ![Construction](../images/articles/design_03/05.jpg)
-FIG.5. The "New Village" in the History
+FIG.5. Land Fragmentation in 1990s Japan as Case
 
 
 ![Construction](../images/articles/design_03/06.jpg)
-FIG.6. The "New Village" in the History
+FIG.6. Generic Urban Block in Shanghai as Design Site
 
 
 ![Construction](../images/articles/design_03/07.jpg)
-FIG.7. The "New Village" in the History
+FIG.7. Design Pathway 1, Space Cutting as the Method
 
 
 ![Construction](../images/articles/design_03/08.jpg)
-FIG.8. The "New Village" in the History
+FIG.8. The New Architectural Framework
 
 
 ![Construction](../images/articles/design_03/09.jpg)
-FIG.9. The "New Village" in the History
+FIG.9. Typology Development, the Terrace Block
 
 
 ![Construction](../images/articles/design_03/10.jpg)
-FIG.10. The "New Village" in the History
+FIG.10. Typology Development, the Tower Block
 
 
 ![Construction](../images/articles/design_03/11.jpg)
-FIG.11. The "New Village" in the History
+FIG.11. Typology Development, the Elliptic Block
 
 
 ![Construction](../images/articles/design_03/12.jpg)
-FIG.12. The "New Village" in the History
+FIG.12. Different Residential Type Create a Diverse and Sustainable Communities
 
 
 ![Construction](../images/articles/design_03/13.jpg)
-FIG.13. The "New Village" in the History
+FIG.13. The Relation between the Building, the Open Space and the Community
 
 
 ![Construction](../images/articles/design_03/14.jpg)
-FIG.14. The "New Village" in the History
+FIG.14. The Flexible Architectural Framework/The Ground Floor of the Community
 
 
 ![Construction](../images/articles/design_03/15.jpg)
-FIG.15. The "New Village" in the History
+FIG.15. Real Estate Developer, the Change of Development Model
 
 
 ![Construction](../images/articles/design_03/16.jpg)
-FIG.16. The "New Village" in the History
+FIG.16. From Market Economy City to the Post-real-estate City
 
 
 ![Construction](../images/articles/design_03/17.jpg)
-FIG.17. The "New Village" in the History
+FIG.17. Pathway 2, the Re-discussion of Housing Ownership
 
 
 ![Construction](../images/articles/design_03/18.jpg)
-FIG.18. The "New Village" in the History
+FIG.18. Comparison Scale 1: Living Units
 
 
 ![Construction](../images/articles/design_03/19.jpg)
-FIG.19. The "New Village" in the History
+FIG.19. Comparison Scale 2: Community
 
 
 ![Construction](../images/articles/design_03/20.jpg)
-FIG.20. The "New Village" in the History
+FIG.20. Comparison Scale 3: City
 
 
 ![Construction](../images/articles/design_03/21.jpg)
-FIG.21. The "New Village" in the History
+FIG.21. The Transition of Ownership as the New Forms of Living
 
 
 ![Construction](../images/articles/design_03/22.jpg)
-FIG.22. The "New Village" in the History
+FIG.22. The Neo-homogeneous City, Masterplan and Zoom-in Plan
 
 
 ![Construction](../images/articles/design_03/23.jpg)
-FIG.23. The "New Village" in the History
+FIG.23. The Neo-homogeneous City, Toward the Life of Complexity
 
 
 ![Construction](../images/articles/design_03/24.jpg)
-FIG.24. The "New Village" in the History
+FIG.24. From Market Economy City to The Neo-homogeneous City
+
+
+![Construction](../images/articles/design_03/25.jpg)
+FIG.25. City China, the Changing Living Forms
 
 
 THE CHANGING LIVING FORMS AS THE PROJECTION OF CHINA'S MODERNIZATION

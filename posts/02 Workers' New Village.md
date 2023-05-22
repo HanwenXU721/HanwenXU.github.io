@@ -11,7 +11,7 @@ path: Workers New Village
 
 This project records my postgraduate architecture study in AA Projective Cities - Studio 2: Scales-From the Room to the City. You can download the whole project here: [Term2 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
-You could also find more about AA Projective Cities at:
+You could find more about AA Projective Cities at: 
 http://projectivecities.aaschool.ac.uk/
 
 
