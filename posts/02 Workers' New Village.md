@@ -93,51 +93,40 @@ The design exercise uses a similar strategy in Kaisariani, Athens. According to 
 
 BIBLIOGRAPHY
 
-Yang, Chen. From Model Community to Monumental Site: a Workers’ Village through History. Shanghai: 
-Tongji University Press, 2019.
-
-Henriot, Christian. Shanghai 1927-1937: Municipal Power, Locality, and Modernize, trans. Peide Zhang. 
-Shanghai: Shanghai Classics Publishing House, 2004.
-
-Perry, Clarence. The Neighborhood Unit, a Scheme for Arrangement for the Family-Life Community. 1929.
-
 Chen, Deyang. Maocheng Zhu and Christian Labor Village Movement (1920-1937). 2020.
-
-Wang, Dingzeng. Planning and Design of Shanghai Caoyang New Village Residential Area. 1956.
-
-Howard, Ebenezer. Garden Cities of To-morrow. 1898.
-
-Xue, Fengxuan. A History Review on Theories Related to the Development and Change of Chinese Cities, Acta 
-Geographica Sinica. 11(2002).
 
 Din, Guijie, The New Estate for Workers: "Happy Life For Ever". doctor thesis, Tongji University.
 
+Guo, Shenli. the Establishment and Reform of Residents Committee: A Case Study of Shanghai. China Society Press, 2006.
+
+Henriot, Christian. Shanghai 1927-1937: Municipal Power, Locality, and Modernize, trans. Peide Zhang. Shanghai: Shanghai Classics Publishing House, 2004.
+
+Howard, Ebenezer. Garden Cities of To-morrow. 1898.
+
 Lefebvre, Henri, Espace et Politique, trans. Chun Li. Shanghai: Shanghai People's Publishing House, 2015.
 
-Wang, Hua and Qingsheng Chen, Discussion on several problems in residential planning and design of 
-Shanghai. Architecture Journal, 2(1964).
+Li, Yingchun, “New Village”: an Alternative Scope for the Study of Built Environmen. Time Architecture, 2(2017).
+
+Liang, Zhiyong. From Village for Commoners to Workers' New Village: the Continual Civilizing Mission of Shanghai's Public Housing, 1927-1951. Time Architecture, 2(2017).
+
+Mao, Zedong. The Work of Student (Translated from Chinese: 学生之工作). 1919.
+
+Perry, Clarence. The Neighborhood Unit, a Scheme for Arrangement for the Family-Life Community. 1929.
 
 Shanghai Housing Construction Records. Shanghai: Shanghai Academy of Social Science Press, 1999.
 
 Shanghai Residence (1949-1990). Shanghai: Shanghai Science Popularization Press, 1993.
 
-Guo, Shenli. the Establishment and Reform of Residents Committee: A Case Study of Shanghai. China Society 
-Press, 2006.
+Wang, Dingzeng. Planning and Design of Shanghai Caoyang New Village Residential Area. 1956.
 
-Xu, Xiaofeng. Urban Spatial Change From the Perspective of New-Marxism: a Case Study of Workers' Village 
-in Shanghai. Urban Planning Forum, 7(2019).
+Wang, Hua and Qingsheng Chen, Discussion on several problems in residential planning and design of Shanghai. Architecture Journal, 2(1964).
 
-Xiang, Xuan. The Research of Workers Community Residential Architecture and Outdoor Environment in 
-Jiangsu, Zhejiang and Shanghai from 1949 to 1978 - Research Based on Spatial form and Form Characteristics. 
-2011.
+Wu, Zhongxin and Liuxiu Geng, Some methods of public building planning in Shanghai residential area, Architecture Journal. 1981.
 
-Li, Yingchun, “New Village”: an Alternative Scope for the Study of Built Environmen. Time Architecture, 
-2(2017).
+Xiang, Xuan. The Research of Workers Community Residential Architecture and Outdoor Environment in Jiangsu, Zhejiang and Shanghai from 1949 to 1978 - Research Based on Spatial form and Form Characteristics.  2011.
 
-Mao, Zedong. The Work of Student (Translated from Chinese: 学生之工作). 1919.
+Xu, Xiaofeng. Urban Spatial Change From the Perspective of New-Marxism: a Case Study of Workers' Village in Shanghai. Urban Planning Forum, 7(2019).
 
-Liang, Zhiyong. From Village for Commoners to Workers' New Village: the Continual Civilizing Mission of 
-Shanghai's Public Housing, 1927-1951. Time Architecture, 2(2017).
+Xue, Fengxuan. A History Review on Theories Related to the Development and Change of Chinese Cities, Acta Geographica Sinica. 11(2002).
 
-Wu, Zhongxin and Liuxiu Geng, Some methods of public building planning in Shanghai residential area,
-Architecture Journal. 1981.
+Yang, Chen. From Model Community to Monumental Site: a Workers’ Village through History. Shanghai: Tongji University Press, 2019.

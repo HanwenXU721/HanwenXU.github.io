@@ -15,7 +15,7 @@ Renovation of Old Apartment
 
 Individual Work
 
-For More Details: https://issuu.com/hanwenxu721/docs/_2016-2020
+This project records undergraduate architecture study of Hanwen XU in 2017 Fall Semester, Year 3. You can download the whole project here: [Bachelor Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
 
 
 ![Birdview](../images/articles/design_04/0.jpg)
@@ -27,38 +27,45 @@ Under such a realistic logic, this project chooses Longchang Apartment as the ob
 
 
 ![Plan](../images/articles/design_04/1.jpg)
-Fig. 1. Longchang Apartment: from Classy Dormitory to Decay Housing
+FIG.1. Longchang Apartment: from Classy Dormitory to Decay Housing
+
 
 In its early days, Longchang Apartment was Shanghai's most modern high-rise apartment. While one hundred years later, the living conditions of this apartment have become worse and worse. Only elders stay because of deep feelings for "home". Furthermore, bruising tensions form between migrant workers (who are attracted by cheap rents here) and old residents because of cultural differences.
 
+
 ![Plan](../images/articles/design_04/2.jpg)
-Fig. 2. Facade: the Encroachment on Public Space
+FIG.2. Facade: the Encroachment on Public Space
 
 
 The lack of space makes the living condition to become worse. Residents have no choice but to occupy the corridor to put more things, which leads to many problems like the encroachment of public space, the confusion of property rights and the degradation of the visual quality. However, in some cases, it also has a positive aspect. It is a flexible way of using space.
 
+
 ![Plan](../images/articles/design_04/3-1.jpg)
-Fig. 3. Strategies Used by Residents to Increase Space
+FIG.3. Strategies Used by Residents to Increase Space
+
 
 ![Plan](../images/articles/design_04/4.jpg)
-Fig. 4. Space Integration
+FIG.4. Space Integration
 
 
 Based on such a space logic, a flexible living form emerged. According to rent on the standard sleeping unit and paying for extra furniture, migrant workers could keep the cost of living as low as possible. The introduction manual below explains how flexible units could be installed and adapted to different living needs.
 
+
 ![Plan](../images/articles/design_04/5.jpg)
 
 ![Plan](../images/articles/design_04/5-2.jpg)
-Fig. 5. The Guide of Living in Longchang Apartment
+FIG.5. The Guide of Living in Longchang Apartment
 
 
 This new form of collective living shows a different scene from everyday life. The group of migrant workers build a dense and flexible community.
 
+
 ![Plan](../images/articles/design_04/6.jpg)
-Fig. 6. New Longchang: Scenes from Everyday Life
+FIG.6. New Longchang: Scenes from Everyday Life
 
 
 The project also envisages future changes in "ownership" over time. Initially, these areas were still entirely inhabited by old locals. They control the whole space of the apartment. Over time, illness, death, and other reasons have caused the local elderly community to demise. Immigrants are nibbling on Longchang's apartment space, and new communities are growing. Finally, the original community (the elders) disappeared. The new community of migrants take over the ownership of Longchang apartments. In such a process, Longchang apartment still exists, while the kernel has been replaced into a form suitable for contemporary metropolitan life.
 
+
 ![Plan](../images/articles/design_04/7.jpg)
-Fig. 7. New Longchang: Scenes from Everyday Life
+FIG.7. New Longchang: Scenes from Everyday Life

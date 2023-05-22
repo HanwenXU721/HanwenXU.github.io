@@ -135,44 +135,44 @@ The transformation of China’s housing system since 1949 is, in a way, a reflec
 
 BIBLIOGRAPHY (Primary)
 
-Yang, Chen. From Model Community to Monumental Site: a Workers’ Village through History. Shanghai: Tongji University Press, 2019.
-
 Bray, David. Social Space and Governance in Urban China: The Danwei System from Origins to Reform. Stanford, CA: Stanford University Press, 2005.
+
+Chen, Yingfang. City Chinese Logic (Chinese Edition: 城市中国的逻辑). Shanghai: Shanghai SDX Joint Publishing Company, 2012.
 
 Dogma (Architectural Office), Loveless: the Minimum Dwelling and Its Discontents. Milan: Black Square, 2019.
 
+Fan, Joseph P. H., and Randall Morck. Capitalizing China. London: University of Chicago Press, 2013.
+
 Hassenpflug, Dieter, the Urban Code of China, trans. Mark Kammerbauer. Basel: Birkhäuser GmbH, 2010.
 
-Lu, Duanfang. Remaking Chinese urban form: modernity, scarcity, and space, 1949-2005. London ; New York : Routledge, 2006.
+Jacoby, Sam. Drawing Architecture and the Urban. London, John Wiley & Sons, 2016.
 
-Wang, Dingzeng. Planning and Design of Shanghai Caoyang New Village Residential Area. 1956.
+Jia, Rujun and Yin Li. More Than Living: One Hundred Years of Experience in Non-profit Housing Construction in Zurich (Chinese Edition: 不只是居住：苏黎世非营利性住房建设的百年经验). Chongqing: Chongqing University Press, 2015.
+
+Kitayama, Koh, Yoshiharu Tsukamoto and Ryue Nishizawa, Tokyo Metabolizing. Tokyo : TOTO, 2010.
+
+Lan, Xiaohuan. Involved in the Matter: China’s Government and Economic Development (Chinese Edition: 置身事内：中国政府与经济发展). Shanghai: Shanghai People’s Publishing House, 2021.
 
 Lefebvre, Henri. The Production of Space, trans. Mark Kammerbauer. Oxford; Cambridge, Mass.: Blackwell, 1991.
 
-Fan, Joseph P. H., and Randall Morck. Capitalizing China. London: University of Chicago Press, 2013.
+Lu, Duanfang. Remaking Chinese urban form: modernity, scarcity, and space, 1949-2005. London ; New York : Routledge, 2006.
+
+Soules, Matthew. Icebergs, Zombies, and the Ultra Thin: Architecture and Capitalism in the Twenty-First Century. New York: Princeton Architectural Press, 2021.
 
 Teige, Karel. the Minimum Dwelling. Cambridge, MIT Press, 2002.
 
-Kitayama, Koh, Yoshiharu Tsukamoto and Ryue Nishizawa, Tokyo Metabolizing. Tokyo : TOTO, 2010.
+Vittorio Aureli, Pier. Project of Autonomy : Politics and Architecture within and against Capitalism. New York, Princeton Architectural Press, 2008.
+
+Wang, Dingzeng. Planning and Design of Shanghai Caoyang New Village Residential Area. 1956.
+
+Weber, Max. Economy and Society: An Outline of Interpretive Sociology. Oakland, University of California Press, 1978.
+
+Yang, Chen. From Model Community to Monumental Site: a Workers’ Village through History. Shanghai: Tongji University Press, 2019.
+
+Yang, Ziyi. More Than Living: Shanghai Modern Residence Design in a Global Context. Shanghai: Tongji University Press, 2015.
 
 Zhang, Li and Aihwa Ong, ed,. Privatizing China: socialism from after. Ithaca : Cornell University Press, 2008.
 
 Zhou, Lian. Local Government in a Changing Society: Officer Incentives, Innovation, and Organizational Control. Translated by Weian Li. Beijing: Peking University Press, 2007.
 
-Soules, Matthew. Icebergs, Zombies, and the Ultra Thin: Architecture and Capitalism in the Twenty-First Century. New York: Princeton Architectural Press, 2021.
-
-Weber, Max. Economy and Society: An Outline of Interpretive Sociology. Oakland, University of California Press, 1978.
-
-Vittorio Aureli, Pier. Project of Autonomy : Politics and Architecture within and against Capitalism. New York, Princeton Architectural Press, 2008.
-
-Jia, Rujun and Yin Li. More Than Living: One Hundred Years of Experience in Non-profit Housing Construction in Zurich (Chinese Edition: 不只是居住：苏黎世非营利性住房建设的百年经验). Chongqing: Chongqing University Press, 2015.
-
-Jacoby, Sam. Drawing Architecture and the Urban. London, John Wiley & Sons, 2016.
-
-Lan, Xiaohuan. Involved in the Matter: China’s Government and Economic Development (Chinese Edition: 置身事内：中国政府与经济发展). Shanghai: Shanghai People’s Publishing House, 2021.
-
 Zhou, Xueguang. the Institutional Logic of Governance in China: An Organizational Approach. Shanghai: SDX Joint Publishing Company, 2017.
-
-Chen, Yingfang. City Chinese Logic (Chinese Edition: 城市中国的逻辑). Shanghai: Shanghai SDX Joint Publishing Company, 2012.
-
-Yang, Ziyi. More Than Living: Shanghai Modern Residence Design in a Global Context. Shanghai: Tongji University Press, 2015.

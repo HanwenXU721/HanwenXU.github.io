@@ -15,7 +15,7 @@ Renovation of Industrial Zone
 
 Group Work (Hanwen Xu, Yuhang Tao, Zhengyou Chen and Tiancheng Kang)
 
-For more details: https://issuu.com/hanwenxu721/docs/_2016-2020
+This project records undergraduate architecture study of Hanwen XU in 2019 Fall Semester, Year 4. You can download the whole project here: [Bachelor Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
 
 
 ![Birdview](../images/articles/design_06/1.jpg)
@@ -27,36 +27,37 @@ The context of the original factory supports us in the pathway for design. Follo
 
 
 ![Plan](../images/articles/design_06/2.jpg)
-Fig. 1. Typological Characteristics of the Site
+FIG.1. Typological Characteristics of the Site
 
 
 ![Plan](../images/articles/design_06/3.jpg)
-Fig. 2. Contrasts as Design
+FIG.2. Contrasts as Design
 
 
 ![Plan](../images/articles/design_06/4.jpg)
-Fig. 3. Contrast: Rethinking
+FIG.3. Contrast: Rethinking
 
 
 ![Plan](../images/articles/design_06/5.jpg)
-Fig. 4. Design Strategy: Chaos and Variety
+FIG.4. Design Strategy: Chaos and Variety
 
 
 ![Plan](../images/articles/design_06/6.jpg)
-Fig. 5. Design Strategy: Scale of Public Space
+FIG.5. Design Strategy: Scale of Public Space
 
 
 ![Plan](../images/articles/design_06/7.jpg)
-Fig. 6. The Masterplan of the Project
+FIG.6. The Masterplan of the Project
 
 
 ![Plan](../images/articles/design_06/8.jpg)
-Fig. 7. The Axonometric: Rebuild the Complexity and Chaos Characteristic
+FIG.7. The Axonometric: Rebuild the Complexity and Chaos Characteristic
 
 
 ![Plan](../images/articles/design_06/9.jpg)
+
 ![Plan](../images/articles/design_06/10.jpg)
-Fig. 8. The Tourist's View
+FIG.8. The Tourist's View
 
 
 ![Plan](../images/articles/design_06/11.jpg)
