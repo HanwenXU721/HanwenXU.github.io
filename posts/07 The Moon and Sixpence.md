@@ -15,7 +15,9 @@ Museum and Community Center
 
 Individual Work
 
-This project records undergraduate architecture study of Hanwen XU in 2020 Spring Semester, Year 4. You can download the whole project here: [Bachelor Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
+This project records undergraduate architecture study of Hanwen XU in 2020 Spring Semester, Year 4. You can download the whole project here: 
+
+[Bachelor Work Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
 
 
 ![Birdview](../images/articles/design_07/0.jpg)
@@ -42,7 +44,7 @@ While "Moon" and "Sixpence" become two metaphors, the designer tries to discuss 
 
 
 ![Plan](../images/articles/design_07/3.jpg)
-FIG.3. Two Metaphors: Non-dialy and Daily
+FIG.3. Two Metaphors: Non-daily and Daily
 
 
 The museum and the community centre are two spatial prototypes of the project. According to the hybrid of two types, a series of spaces come out which have the potential to satisfy both needs. By hybridizing the geometric prototype summarized in a case study series of "museum" and "community centre", new types conforming to the characteristics of the two (museum and community centre) can be obtained, thus achieving the homology of the types mentioned by Aldo Rossi.
