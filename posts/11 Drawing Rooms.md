@@ -2,7 +2,7 @@
 title: Drawing Rooms:Soane, Stirling, Today
 disc: no disc here
 date: April, 2023
-path: Drawing Rooms
+path: Drawing Rooms:Soane, Stirling, Today
 ---
 <special>
 </special>
