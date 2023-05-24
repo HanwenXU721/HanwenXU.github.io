@@ -20,23 +20,23 @@ My research in AA Projective Cities join the exhibition as student outcomes of t
 ![Output](../images/articles/academic_02/02.jpg)
 
 
-![Output](../images/articles/academic_03/03.jpg)
+![Output](../images/articles/academic_02/03.jpg)
 
 
-![Output](../images/articles/academic_04/04.jpg)
+![Output](../images/articles/academic_02/04.jpg)
 
 
-![Output](../images/articles/academic_05/05.jpg)
+![Output](../images/articles/academic_02/05.jpg)
 
 
-![Output](../images/articles/academic_06/06.jpg)
+![Output](../images/articles/academic_02/06.jpg)
 
 
-![Output](../images/articles/academic_07/07.jpg)
+![Output](../images/articles/academic_02/07.jpg)
 
 
-![Output](../images/articles/academic_07/08.jpg)
+![Output](../images/articles/academic_02/08.jpg)
 
 
-![Output](../images/articles/academic_07/09.jpg)
+![Output](../images/articles/academic_02/09.jpg)
 
