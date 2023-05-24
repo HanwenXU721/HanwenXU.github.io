@@ -11,8 +11,32 @@ path: Kassariani22
 
 Kessariani 22: Histories and Projects aims to develop new housing typologies, innovative models of refurbishment and restoration, and highlight the historical urban fabric and the typical refugee welfare housing units, whilst proposing new collective infrastructure for the entire neighborhood of the refugee population heritage in the social, cultural and political history of the place, as well as its registration in spatial and design protocols. The project presents the results of the three-years-long research and design program of AA Projective Cities.
 
-My research in AA Projective Cities join the exhibition as student outcomes.
+My research in AA Projective Cities join the exhibition as student outcomes of the project.
 
 
-![Camera Capture](../images/articles/academic_02/Camera_Capture.jpg)
+![Output](../images/articles/academic_02/01.jpg)
+
+
+![Output](../images/articles/academic_02/02.jpg)
+
+
+![Output](../images/articles/academic_03/03.jpg)
+
+
+![Output](../images/articles/academic_04/04.jpg)
+
+
+![Output](../images/articles/academic_05/05.jpg)
+
+
+![Output](../images/articles/academic_06/06.jpg)
+
+
+![Output](../images/articles/academic_07/07.jpg)
+
+
+![Output](../images/articles/academic_07/08.jpg)
+
+
+![Output](../images/articles/academic_07/09.jpg)
 
