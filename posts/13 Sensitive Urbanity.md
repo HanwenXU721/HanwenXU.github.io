@@ -16,12 +16,32 @@ Atelier Deshaus aims to respond to rapid urban development in China in a sensiti
 I participated in the layout and design of the entire exhibition.
 
 
-![Plan](../images/articles/research_03/Plan.jpg)
+![Plan](../images/articles/academic_03/01.jpg)
 
-We placed six anchors in the supermarket and asked students carrying a tag with them when shopping. With this tag, anchors could log the distance between tag and themselves and upload the data onto our server. Then we could get the position of the tag using trilateration.
 
-![Process](../images/articles/research_03/Process.jpg)
+![Plan](../images/articles/academic_03/02.jpg)
 
-Raw data were filtered, interpolated, and smoothed using moving average to reduce possible deviation. Following is a collection of our final results.
 
-![Result](../images/articles/research_03/Result.jpg)
+![Plan](../images/articles/academic_03/03.jpg)
+
+
+![Plan](../images/articles/academic_03/04.jpg)
+
+
+![Plan](../images/articles/academic_03/05.jpg)
+
+
+![Plan](../images/articles/academic_03/06.jpg)
+
+
+![Plan](../images/articles/academic_03/07.jpg)
+
+
+![Plan](../images/articles/academic_03/08.jpg)
+
+
+![Plan](../images/articles/academic_03/09.jpg)
+
+
+![Plan](../images/articles/academic_03/10.jpg)
+
