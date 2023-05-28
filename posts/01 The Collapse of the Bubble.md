@@ -18,7 +18,7 @@ You could find more about AA Projective Cities at:
 http://projectivecities.aaschool.ac.uk/
 
 
-INTRODUCTION
+#### INTRODUCTION
 
 The Collapse of the Housing Bubble in China delves into contemporary issues facing China. The starting point is that a plethora of data points to the inevitable collapse of China’s real estate bubble in the 2020s. The collapse of financial capitalism’s logic in this industry goes beyond its surface-level implications and should be regarded as more than just an independent economic or industry crisis. Similar to Japan during the 1990s bubble economy, the collapse of the real estate market will not only lead to changes in housing typologies but also bring about changes in social structures, living forms, and even the urban context. Simultaneously, the housing market’s collapse represents a symbolic transformation of the four-decade-old system dominated by the big government in China, which prioritized “economic priorities” and rapid urbanization as the ultimate goals.
 
@@ -26,10 +26,13 @@ The thesis’ primary objective is to explore the new forms of living in China�
 
 Furthermore, the central argument’s ambition is to project such a change in living forms as a reflection of the state, providing the author with an opportunity to re-evaluate China’s past, present, and future. The thesis’s purpose is not to criticize capitalism, authoritarianism, or any other “-ism” in China using Western templates. On the contrary, this projection serves as an entry point to explore how different forces have played a role in the complex context during the past 70 years of the People’s Republic of China, which has undergone significant changes, ultimately shaping the prospect of China’s modernization.
 
+</br>
 
-![Construction](../images/articles/design_03/01.jpg)
-<p style="text-align: center;">FIG.1. City China, the Concrete Forests and the Wonders of Modernity</p>
 
+<p id= "it">
+<img src="../images/articles/design_03/01.jpg">
+ FIG.1. City China, the Concrete Forests and the Wonders of Modernity
+</p>
 
 ![Construction](../images/articles/design_03/02.jpg)
 <p style="text-align: center;">FIG.2. The Collapse of the Housing Bubble and the Interest Alliance</p>
