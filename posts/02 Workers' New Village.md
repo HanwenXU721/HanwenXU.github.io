@@ -24,6 +24,84 @@ Workers' New Villages are collective housing built by the government to solve th
 
 "all history is contemporary history". The study of workers' new villages is the study of collective living in the era of the planned economy in China, and also the study of contemporary Chinese cities from planned economy to market economy. Although the construction of the workers' new village was stopped with the reform and opening up in the late 1990s, the planning theory behind it still deeply influences the urban living froms in China today. In this context, the change of workers' new village has become a projection of the change of urban living forms in China.
 
+</br>
+
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.1. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.2. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.3. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.4.1. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.4.2. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.4.3. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.4.4. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.5. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.6. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.7. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.8. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.9. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.10. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.11. The "New Village" in the History
+</p>
+
+<p id= "it">
+<img src="../images/articles/design_02/01.jpg">
+ FIG.12. The "New Village" in the History
+</p>
+
 
 ![Stadium Design](../images/articles/design_02/01.jpg)
 FIG.1. The "New Village" in the History

@@ -17,6 +17,7 @@ You could find more about AA Projective Cities at:
  
 http://projectivecities.aaschool.ac.uk/
 
+</br>
 
 #### INTRODUCTION
 
@@ -27,7 +28,6 @@ The thesis’ primary objective is to explore the new forms of living in China�
 Furthermore, the central argument’s ambition is to project such a change in living forms as a reflection of the state, providing the author with an opportunity to re-evaluate China’s past, present, and future. The thesis’s purpose is not to criticize capitalism, authoritarianism, or any other “-ism” in China using Western templates. On the contrary, this projection serves as an entry point to explore how different forces have played a role in the complex context during the past 70 years of the People’s Republic of China, which has undergone significant changes, ultimately shaping the prospect of China’s modernization.
 
 </br>
-
 
 <p id= "it">
 <img src="../images/articles/design_03/01.jpg">
@@ -154,6 +154,7 @@ Furthermore, the central argument’s ambition is to project such a change in li
  FIG.25. City China, the Changing Living Forms
 </p>
 
+</br>
 
 #### THE CHANGING LIVING FORMS AS THE PROJECTION OF CHINA'S MODERNIZATION
 
@@ -163,6 +164,7 @@ To be fair, the miracle of China’s economy is just as unbelievable for the Chi
 
 The transformation of China’s housing system since 1949 is, in a way, a reflection of the difficult and crucial transformation that this ancient and vast country is undergoing. Therefore, through the field of architecture, this thesis aims to provide a framework for understanding and reviewing China’s modernization process, using the collapse of the Chinese real estate system in the 2020s as a starting point. The third and fourth chapters present two abstract urban imaginations, which, although exploring future forms of urban life, can also be understood as imaginations of the promisingly uncertain future of China.
 
+</br>
 
 #### BIBLIOGRAPHY (Primary)
 
