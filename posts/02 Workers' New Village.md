@@ -17,8 +17,9 @@ You could find more about AA Projective Cities at:
 
 http://projectivecities.aaschool.ac.uk/
 
+</br>
 
-INTRODUCTION
+#### INTRODUCTION
 
 Workers' New Villages are collective housing built by the government to solve the living problem of the working class in planned economic China from 1949 to the 1980s. The meaning of the workers' new village lies in solving the housing problems of the working class as the backbone of the People's Republic of China, significantly improving the living conditions of the lower working people. Workers' village was one of the most important residential types in China. Take Shanghai for example. From 1952 to 1995, 442 workers' villages were built, with a total floor area of 34.97 million square meters. As a typology of a particular era, the workers' new village combines the ideology and planning theory of the era, the typology of workers' new villages aims to establish a "new age" ethic and ideal housing model in the turbulent second half of the 20th century in China.
 
@@ -26,144 +27,84 @@ Workers' New Villages are collective housing built by the government to solve th
 
 </br>
 
-
 <p id= "it">
 <img src="../images/articles/design_02/01.jpg">
  FIG.1. The "New Village" in the History
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.2. The "New Village" in the History
+<img src="../images/articles/design_02/02.jpg">
+ FIG.2. The Soviet Union Delegation Visits Caoyang New Village, 1950s
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.3. The "New Village" in the History
+<img src="../images/articles/design_02/03.jpg">
+ FIG.3. The Planning Structure of Caoyang New Village, by author
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.4.1. The "New Village" in the History
+<img src="../images/articles/design_02/04.1.jpg">
+ FIG.4.1. Caoyang New Village in 1952-1960 (Type1), by author
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.4.2. The "New Village" in the History
+<img src="../images/articles/design_02/04.2.jpg">
+ FIG.4.2. Caoyang New Village in 1952-1956 (Type2), by author
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.4.3. The "New Village" in the History
+<img src="../images/articles/design_02/04.3.jpg">
+ FIG.4.3. Caoyang New Village in 1958-1961 (Type 3), by author
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.4.4. The "New Village" in the History
+<img src="../images/articles/design_02/04.4.jpg">
+ FIG.4.4. Caoyang New Village in 1965-1970 (Type 4), by author
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.5. The "New Village" in the History
+<img src="../images/articles/design_02/05.jpg">
+ FIG.5. The Children were Having the Collective Living in the School as Rehearsal
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.6. The "New Village" in the History
+<img src="../images/articles/design_02/06.jpg">
+ FIG.6.  Four Layers of Daily Life Administration in Caoyang New Village
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.7. The "New Village" in the History
+<img src="../images/articles/design_02/07.jpg">
+ FIG.7. Collective Living Design: the Scale of Architectural Elements
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.8. The "New Village" in the History
+<img src="../images/articles/design_02/08.jpg">
+ FIG.8. Collective Living Design: the Scale of Living Unit
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.9. The "New Village" in the History
+<img src="../images/articles/design_02/09.jpg">
+ FIG.9. Living Units: Type and Scale
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.10. The "New Village" in the History
+<img src="../images/articles/design_02/10.jpg">
+ FIG.10. Collective Living Design: the Scale of Urban Block
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.11. The "New Village" in the History
+<img src="../images/articles/design_02/11.jpg">
+ FIG.11. The Public Space is Hidden from Outside the Community
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_02/01.jpg">
- FIG.12. The "New Village" in the History
+<img src="../images/articles/design_02/12.jpg">
+ FIG.12. The Space as Centralized Public Space for the Community
 </p>
 
+</br>
 
-![Stadium Design](../images/articles/design_02/01.jpg)
-FIG.1. The "New Village" in the History
-
-
-![Stadium Design](../images/articles/design_02/02.jpg)
-FIG.2. The Soviet Union Delegation Visits Caoyang New Village, 1950s
-
-
-![Stadium Design](../images/articles/design_02/03.jpg)
-FIG.3. The Planning Structure of Caoyang New Village, by author
-
-
-![Stadium Design](../images/articles/design_02/04.1.jpg)
-FIG.4.1. Caoyang New Village in 1952-1960 (Type1), by author
-
-
-![Stadium Design](../images/articles/design_02/04.2.jpg)
-FIG.4.2. Caoyang New Village in 1952-1956 (Type2), by author
-
-
-![Stadium Design](../images/articles/design_02/04.3.jpg)
-FIG.4.3. Caoyang New Village in 1958-1961 (Type 3), by author
-
-
-![Stadium Design](../images/articles/design_02/04.4.jpg)
-FIG.4.4. Caoyang New Village in 1965-1970 (Type 4), by author
-
-
-![Stadium Design](../images/articles/design_02/05.jpg)
-FIG.5. The Children were Having the Collective Living in the School as Rehearsal
-
-
-![Stadium Design](../images/articles/design_02/06.jpg)
-FIG.6.  Four Layers of Daily Life Administration in Caoyang New Village
-
-
-![Stadium Design](../images/articles/design_02/07.jpg)
-FIG.7. Collective Living Design: the Scale of Architectural Elements
-
-
-![Stadium Design](../images/articles/design_02/08.jpg)
-FIG.8. Collective Living Design: the Scale of Living Unit
-
-
-![Stadium Design](../images/articles/design_02/09.jpg)
-FIG.9. Living Units: Type and Scale
-
-
-![Stadium Design](../images/articles/design_02/10.jpg)
-FIG.10. Collective Living Design: the Scale of Urban Block
-
-
-![Stadium Design](../images/articles/design_02/11.jpg)
-FIG.11. The Public Space is Hidden from Outside the Community
-
-
-![Stadium Design](../images/articles/design_02/12.jpg)
-FIG.12. The Space as Centralized Public Space for the Community
-
-
-CENTRALIZED FORM AND THE REBUILD OF COLLECTIVE
+#### CENTRALIZED FORM AND THE REBUILD OF COLLECTIVE
 
 Workers' new village is the main body of urban housing construction from the 1950s to 1990s in China, and also the utopian collectivist living form established in the age of scarcity. The word "workers' new village" is not only the spatial sample in the era of planned economy China but also an important tool to construct the identity of workers (and most of the Chinese) through collective living. In addition, the workers' new village practice also directly led to the birth of the modern Chinese public housing system and the establishment of China's grass-roots social management system. These systems are still profoundly affecting the contemporary urban context in China.
   
@@ -171,8 +112,9 @@ In the case of Caoyang new village, it can be clearly found that different level
 
 The design exercise uses a similar strategy in Kaisariani, Athens. According to the reorganization of three levels, architectural elements, living units and urban blocks, a flexible and centralized form of living is constructed. This collective living fits Kaisariani's history and urban context and rebuilds the collective in this unique region.
 
+</br>
 
-BIBLIOGRAPHY
+#### BIBLIOGRAPHY
 
 Chen, Deyang. Maocheng Zhu and Christian Labor Village Movement (1920-1937). 2020.
 
