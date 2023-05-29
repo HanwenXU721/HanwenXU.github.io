@@ -35,7 +35,7 @@ Furthermore, the central argument’s ambition is to project such a change in li
 </p>
 
 <p id= "it">
-<img src="../images/articles/design_03/01.jpg">
+<img src="../images/articles/design_03/02.jpg">
  FIG.2. The Collapse of the Housing Bubble and the Interest Alliance
 </p>
 
