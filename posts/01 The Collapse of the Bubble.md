@@ -34,6 +34,13 @@ Furthermore, the central argument’s ambition is to project such a change in li
  FIG.1. City China, the Concrete Forests and the Wonders of Modernity
 </p>
 
+<p id= "it">
+<img src="../images/articles/design_03/01.jpg">
+ FIG.2. The Collapse of the Housing Bubble and the Interest Alliance
+</p>
+
+
+
 ![Construction](../images/articles/design_03/02.jpg)
 <p style="text-align: center;">FIG.2. The Collapse of the Housing Bubble and the Interest Alliance</p>
 
