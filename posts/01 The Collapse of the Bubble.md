@@ -154,103 +154,8 @@ Furthermore, the central argument’s ambition is to project such a change in li
  FIG.25. City China, the Changing Living Forms
 </p>
 
-![Construction](../images/articles/design_03/02.jpg)
-<p style="text-align: center;">FIG.2. The Collapse of the Housing Bubble and the Interest Alliance</p>
 
-
-![Construction](../images/articles/design_03/03.jpg)
-FIG.3. From Welfare to Property: the Rise of Real Estate in Modern China
-
-
-![Construction](../images/articles/design_03/04.jpg)
-FIG.4. Two Pathways Toward New Forms of Living
-
-
-![Construction](../images/articles/design_03/05.jpg)
-FIG.5. Land Fragmentation in 1990s Japan as Case
-
-
-![Construction](../images/articles/design_03/06.jpg)
-FIG.6. Generic Urban Block in Shanghai as Design Site
-
-
-![Construction](../images/articles/design_03/07.jpg)
-FIG.7. Design Pathway 1, Space Cutting as the Method
-
-
-![Construction](../images/articles/design_03/08.jpg)
-FIG.8. The New Architectural Framework
-
-
-![Construction](../images/articles/design_03/09.jpg)
-FIG.9. Typology Development, the Terrace Block
-
-
-![Construction](../images/articles/design_03/10.jpg)
-FIG.10. Typology Development, the Tower Block
-
-
-![Construction](../images/articles/design_03/11.jpg)
-FIG.11. Typology Development, the Elliptic Block
-
-
-![Construction](../images/articles/design_03/12.jpg)
-FIG.12. Different Residential Type Create a Diverse and Sustainable Communities
-
-
-![Construction](../images/articles/design_03/13.jpg)
-FIG.13. The Relation between the Building, the Open Space and the Community
-
-
-![Construction](../images/articles/design_03/14.jpg)
-FIG.14. The Flexible Architectural Framework/The Ground Floor of the Community
-
-
-![Construction](../images/articles/design_03/15.jpg)
-FIG.15. Real Estate Developer, the Change of Development Model
-
-
-![Construction](../images/articles/design_03/16.jpg)
-FIG.16. From Market Economy City to the Post-real-estate City
-
-
-![Construction](../images/articles/design_03/17.jpg)
-FIG.17. Pathway 2, the Re-discussion of Housing Ownership
-
-
-![Construction](../images/articles/design_03/18.jpg)
-FIG.18. Comparison Scale 1: Living Units
-
-
-![Construction](../images/articles/design_03/19.jpg)
-FIG.19. Comparison Scale 2: Community
-
-
-![Construction](../images/articles/design_03/20.jpg)
-FIG.20. Comparison Scale 3: City
-
-
-![Construction](../images/articles/design_03/21.jpg)
-FIG.21. The Transition of Ownership as the New Forms of Living
-
-
-![Construction](../images/articles/design_03/22.jpg)
-FIG.22. The Neo-homogeneous City, Masterplan and Zoom-in Plan
-
-
-![Construction](../images/articles/design_03/23.jpg)
-FIG.23. The Neo-homogeneous City, Toward the Life of Complexity
-
-
-![Construction](../images/articles/design_03/24.jpg)
-FIG.24. From Market Economy City to The Neo-homogeneous City
-
-
-![Construction](../images/articles/design_03/25.jpg)
-FIG.25. City China, the Changing Living Forms
-
-
-THE CHANGING LIVING FORMS AS THE PROJECTION OF CHINA'S MODERNIZATION
+#### THE CHANGING LIVING FORMS AS THE PROJECTION OF CHINA'S MODERNIZATION
 
 Starting from a poor, planning, nearly bankrupt economy in the late 1970s, China has emerged as a world economic superpower over the past four decades. China’s economic miracle has profoundly challenged the conventional wisdom that property rights protection, an independent legal system, and a democratic government with checks and balances are requisite to support long-term growth. By international standards, China has a low ranking in the supply of all these institutional fundamentals.  
 
@@ -259,7 +164,7 @@ To be fair, the miracle of China’s economy is just as unbelievable for the Chi
 The transformation of China’s housing system since 1949 is, in a way, a reflection of the difficult and crucial transformation that this ancient and vast country is undergoing. Therefore, through the field of architecture, this thesis aims to provide a framework for understanding and reviewing China’s modernization process, using the collapse of the Chinese real estate system in the 2020s as a starting point. The third and fourth chapters present two abstract urban imaginations, which, although exploring future forms of urban life, can also be understood as imaginations of the promisingly uncertain future of China.
 
 
-BIBLIOGRAPHY (Primary)
+#### BIBLIOGRAPHY (Primary)
 
 Bray, David. Social Space and Governance in Urban China: The Danwei System from Origins to Reform. Stanford, CA: Stanford University Press, 2005.
 
