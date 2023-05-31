@@ -16,11 +16,11 @@ The Space as Urban-Rural Continuum is an eassy I worte in AA Projective Cities i
 </br>
 
 <p id= "it">
-<img src="../images/articles/other_01/1.jpg">
+<img src="../images/articles/other_01/01.jpg">
  FIG.1. The Village in the City
 </p>
 
 <p id= "it">
-<img src="../images/articles/other_01/2.jpg">
+<img src="../images/articles/other_01/02.jpg">
  FIG.2. The City in the village
 </p>
