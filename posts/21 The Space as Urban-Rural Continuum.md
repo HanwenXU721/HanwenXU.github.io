@@ -11,4 +11,16 @@ path: The Space as Urban-Rural Continuum
 
 The Space as Urban-Rural Continuum is an eassy I worte in AA Projective Cities in 2022, which is one of my favorite. You can read the whole essay here: 
 
-[Writing Sample](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
+[Writing Sample](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/The%20Space%20as%20Urban-Rural%20Continuum.pdf)
+
+</br>
+
+<p id= "it">
+<img src="../images/articles/other_01/1.jpg">
+ FIG.1. The Village in the City
+</p>
+
+<p id= "it">
+<img src="../images/articles/other_01/2.jpg">
+ FIG.2. The City in the village
+</p>
