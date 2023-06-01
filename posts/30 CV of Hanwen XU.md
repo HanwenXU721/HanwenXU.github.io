@@ -9,7 +9,6 @@ path: CV of Hanwen XU
 
 ## CV of Hanwen XU
 
-![Birdview](../images/articles/other_03/01.jpg)
 <p id= "it">
 <img src="../images/articles/other_03/01.jpg">
  That's me!
@@ -17,4 +16,4 @@ path: CV of Hanwen XU
 
 
 Download my CV: 
-[CV_Hanwen XU](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
+[CV_Hanwen XU](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/CV_Hanwen%20Xu.pdf)

@@ -9,7 +9,7 @@ path: The Space as Urban-Rural Continuum
 
 ## The Space as Urban-Rural Continuum
 
-The Space as Urban-Rural Continuum is an eassy sample I worte in my master study in 2022 at AA School, which is also one of my favorite eassy. 
+The Space as Urban-Rural Continuum is an eassy sample I worte in my master study in 2022 at AA School.
 
 Read the whole article: 
 
@@ -24,5 +24,5 @@ Read the whole article:
 
 <p id= "it">
 <img src="../images/articles/other_01/02.jpg">
- FIG.2. "The City in the village", Zhejiang
+ FIG.2. "The City in the Village", Zhejiang
 </p>

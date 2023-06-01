@@ -16,9 +16,6 @@ I join the workshop as student representative.
 
 </br>
 
-![Output](../images/articles/academic_01/01.jpg)
-
-
 ![Output](../images/articles/academic_01/02.jpg)
 
 
