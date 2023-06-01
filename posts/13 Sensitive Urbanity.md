@@ -16,6 +16,7 @@ Atelier Deshaus aims to respond to rapid urban development in China in a sensiti
 
 I participated in the layout and design of the entire exhibition.
 
+</br>
 
 ![Plan](../images/articles/academic_03/01.jpg)
 

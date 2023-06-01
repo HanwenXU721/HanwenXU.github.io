@@ -14,6 +14,8 @@ The UNNCxCAA Exhibition is a academic activity hold by the architecture faculty 
 
 I join the exhibition as student representative.
 
+</br>
+
 ![Plan](../images/articles/academic_04/1.jpg)
 
 

@@ -14,6 +14,7 @@ Kessariani 22: Histories and Projects aims to develop new housing typologies, in
 
 My research in AA Projective Cities join the exhibition as student outcomes of the project.
 
+</br>
 
 ![Output](../images/articles/academic_02/01.jpg)
 
