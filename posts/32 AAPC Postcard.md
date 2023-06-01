@@ -11,6 +11,8 @@ path: AAPC Postcard
 
 The postcard designed for AA Exhibition of June, 2022.
 
+</br>
+
 <p id= "it">
 <img src="../images/articles/other_02/01.jpg">
  FIG.1. Front of the Postcard (AAPC)

@@ -11,13 +11,13 @@ path: The Collapse of the Bubble
 
 This project is the dessertation of Hanwen Xu's postgraduate architecture study in AA Projective Cities. 
 
-Download the whole project:
+</br>
 
+Download the whole project:
 [Dissertation](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
 Find more about AA Projective Cities:
- 
-http://projectivecities.aaschool.ac.uk/
+ http://projectivecities.aaschool.ac.uk/
 
 </br>
 

@@ -11,12 +11,12 @@ path: The Middle Typology
 
 This project records postgraduate architecture study of Hanwen XU in AA Projective Cities - Studio 1: Parts, Units and Groups. 
 
-Download the whole project: 
+</br>
 
+Download the whole project: 
 [Term1 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
  
 Find more about AA Projective Cities:
-
 http://projectivecities.aaschool.ac.uk/
 
 </br>

@@ -11,12 +11,12 @@ path: Workers New Village
 
 This project records Hanwen Xu's postgraduate architecture study in AA Projective Cities - Studio 2: Scales-From the Room to the City. 
 
-Download the whole project: 
+</br>
 
+Download the whole project: 
 [Term2 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
 Find more about AA Projective Cities:
-
 http://projectivecities.aaschool.ac.uk/
 
 </br>
