@@ -15,7 +15,9 @@ Renovation of Old Apartment
 
 Individual Work
 
-This project records undergraduate architecture study of Hanwen XU in 2017 Fall Semester, Year 3. You can download the whole project here: 
+This project records undergraduate architecture study of Hanwen XU in 2017 Fall Semester, Year 3. 
+
+Download the whole project: 
 
 [Bachelor Work Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
 

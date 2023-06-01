@@ -9,11 +9,13 @@ path: The Collapse of the Bubble
 
 ## The Collapse of the Housing Bubble in China: New Power as New Forms of Living
 
-This project is the dessertation of my postgraduate architecture study in AA Projective Cities. You can download the whole project here:
+This project is the dessertation of Hanwen Xu's postgraduate architecture study in AA Projective Cities. 
+
+Download the whole project:
 
 [Dissertation](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
-You could find more about AA Projective Cities at:
+Find more about AA Projective Cities:
  
 http://projectivecities.aaschool.ac.uk/
 

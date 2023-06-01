@@ -13,7 +13,7 @@ Dishui Lake Pier is the first complete project I participate as an architect in 
 
 As a junior architect, I was deeply involved in design and construction drawing. The construction of the project began in late 2021 and will be completed in 2023.
 
-You could find more about TM Studio at: 
+Find more about TM Studio at: 
 
 https://www.archdaily.com/office/tm-studio
 

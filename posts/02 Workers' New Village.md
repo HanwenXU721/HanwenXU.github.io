@@ -9,11 +9,13 @@ path: Workers New Village
 
 ## Workers' New Village: the Spatial Sample of Urban in Planned Economy China
 
-This project records my postgraduate architecture study in AA Projective Cities - Studio 2: Scales-From the Room to the City. You can download the whole project here: 
+This project records Hanwen Xu's postgraduate architecture study in AA Projective Cities - Studio 2: Scales-From the Room to the City. 
+
+Download the whole project: 
 
 [Term2 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
  
-You could find more about AA Projective Cities at: 
+Find more about AA Projective Cities:
 
 http://projectivecities.aaschool.ac.uk/
 
