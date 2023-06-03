@@ -15,6 +15,6 @@ The documentary for this event has been produced and edited by me.
 
 </br>
 
-<p class="ratio bilibili">
-<iframe src="https://www.bilibili.com/video/BV1Nh4y1d7q5/" scrolling="no" border="0" frameborder="no" 
+<p class="ratio youtube">
+<iframe src="https://youtu.be/Ne26GbSOOQQ" scrolling="no" border="0" frameborder="no" 
 framespacing="0" allowfullscreen="true"> </iframe></p>
