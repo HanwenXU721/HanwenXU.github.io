@@ -14,7 +14,7 @@ This project is the dessertation of Hanwen Xu's postgraduate architecture study 
 </br>
 
 Download the whole project:
-[Dissertation](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
+[Dissertation](https://drive.google.com/file/d/190SeTw38nG7gQMMasnnVdp_bVpJuGh-h/view?usp=drive_link)
  
 Find more about AA Projective Cities:
  http://projectivecities.aaschool.ac.uk/

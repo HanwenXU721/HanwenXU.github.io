@@ -13,4 +13,4 @@ The Space as Urban-Rural Continuum is an eassy sample I worte in my master study
 
 Read the whole article: 
 
-[The Space as Urban-Rural Continuum](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/The%20Space%20as%20Urban-Rural%20Continuum.pdf)
+[The Space as Urban-Rural Continuum](https://drive.google.com/file/d/1fOV2Ovan_UdCRaHbVFIV1IRxYB4wAROI/view?usp=drive_link)

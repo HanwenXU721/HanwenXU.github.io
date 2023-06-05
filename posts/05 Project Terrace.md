@@ -20,7 +20,7 @@ Individual Work
 This project records undergraduate architecture study of Hanwen XU in 2018 Spring Semester, Year 3. 
 
 Download the whole project: 
-[Bachelor Work Collection 2016-2020](https://github.com/HanwenXU721/HanwenXU.github.io/raw/master/resources/Term1%20Studio.pdf)
+[Bachelor Work Collection 2016-2020](https://drive.google.com/file/d/18nhnH4e4g5r4zCdKg6TxR9Yo88CFOXmq/view?usp=drive_link)
 
 </br>
 

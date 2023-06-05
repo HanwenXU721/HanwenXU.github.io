@@ -14,7 +14,7 @@ This project records Hanwen Xu's postgraduate architecture study in AA Projectiv
 </br>
 
 Download the whole project: 
-[Term2 Studio](https://github.com/HanwenXU721/HanwenXU.github.io/blob/master/resources/Term2%20Studio.pdf)
+[Term2 Studio](https://drive.google.com/file/d/14lRAZH2ul9VFZ4f4j8FzqR9qvMLr1xk_/view?usp=drive_link)
  
 Find more about AA Projective Cities:
 http://projectivecities.aaschool.ac.uk/
