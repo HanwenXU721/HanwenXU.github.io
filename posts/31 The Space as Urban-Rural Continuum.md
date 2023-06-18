@@ -2,7 +2,7 @@
 title: The Space as Urban-Rural Continuum
 disc: no disc here
 date: Jan 02, 2020
-path: The Space as Urban-Rural Continuum
+path: Writing Sample
 ---
 <special>
 </special>

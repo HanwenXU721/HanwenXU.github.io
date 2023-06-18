@@ -2,7 +2,7 @@
 title: To Meet at Guizhou Road
 disc: no disc here
 date: September, 2020
-path: To Meet at Guizhou Road
+path: Graphic Design Sample
 ---
 <special>
 </special>

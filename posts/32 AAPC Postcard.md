@@ -2,7 +2,7 @@
 title: AAPC Postcard
 disc: no disc here
 date: June, 2022
-path: AAPC Postcard
+path: Graphic Design Sample
 ---
 <special>
 </special>
